@@ -1,0 +1,15 @@
+.tamaño1{
+	font-size: 70px;
+	color:#ADB0B1;
+}
+.tamaño2{
+	font-size:40px;
+}
+.espacio{
+	margin-left:150px;
+}
+.margin0{
+	margin:0 !important;
+	width: 49.7% !important;
+	border:1px solid #192951;
+}

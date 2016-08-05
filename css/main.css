@@ -1,0 +1,109 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+a{
+	text-decoration: none;
+	margin:5px 30px;
+}
+.baner{
+	background-image:url("../img/dance_1.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height:480px;
+	margin-top: 12px;
+}
+.oferta{
+	background-image:url("../img/textura_2.jpg");
+	background-repeat:repeat;
+	width: 100%;
+	height:400px;
+}
+.deco1{
+	width:12%;
+	margin:3px auto;
+}
+.boton1{
+	background-color:#030E1D;
+	border:0;
+	color:white;
+	padding:12px 30px;
+}
+.boton{
+	background-color:#192951;
+	padding:19px 110px;
+	display:block;
+	margin:2px auto;
+	color:white;
+	border:0;
+}
+/*borrar*/
+.dosbaner{
+	height:405px;
+}
+.izquierda{
+	background-image:url("../img/instructor_4.jpg");
+	height: 400px;
+}
+.derecha{
+	background-image:url("../img/profesor_9.jpg");
+	height: 400px;
+}
+.poema{
+	background-image:url("../img/textura_2.jpg");
+	background-repeat:repeat;
+	width: 100%;
+	height:400px;
+}
+.relat{
+	position:relative;
+	top:-59px;
+	padding: 19px 230px;
+	clear:both;
+}
+.encuentranos{
+	background-color:#192951;
+	width: 100%;
+	height: 480px;
+}
+.nombre{
+	background-image:url("../img/shoes_1.jpg");
+	background-repeat:no-repeat;
+	background-position-x: 261px;
+	margin:0 auto;
+}
+/*contactanos*/
+.ubic{
+	color: black;
+	position: relative;
+}
+
+.ubic input[type=text] {
+	border: none;
+	border:1px solid #BCBCBC;
+	height: 40px;
+	width: 250px;
+	padding:0 2em;
+	font-size: 1em;
+	margin:5px auto;
+}	
+
+.ubicesp:before {
+position: absolute;
+  top: 12px;
+  left:5px;
+  font-size: 1.3em;	
+}
+.alto input[type=text]{
+	padding-bottom: 8.5em;
+	margin-bottom: 1em;
+}
+.form{
+	    padding: 17px 155px 17px 115px;
+	    margin:0;
+}
+footer{
+	background-color:#192951;
+	height: 90px;
+	padding: 12px 20px;
+}
